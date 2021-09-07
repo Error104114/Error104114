@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Error104114
 - 👀 ~~I’m interested in~~ Just messing around 
-- 🌱 I’m currently learning nodejs and python
+- 🌱 I’m currently learning ~~node.js~~(???) deno and python
 <!--- 
 💞️ I’m looking to collaborate on ...
 
